@@ -2,4 +2,13 @@ theme: jekyll-theme-slate
 url: "https://AeroOwl.github.io"
 baseurl: ""
 
-sidebar: true
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    value:
+      layout: ''
+      author: 'ayc'
+      comments: false
+      share: false
