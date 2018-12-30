@@ -14,8 +14,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   
-# Defaults
-defaults:
+default:
   # _posts
   - scope:
       path: ""
