@@ -3,7 +3,6 @@ url: "https://AeroOwl.github.io"
 baseurl: ""
 
 defaults:
-  -
     scope:
       path: ''
       type: 'posts'
