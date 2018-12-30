@@ -1,13 +1,15 @@
 theme: jekyll-theme-slate
 url: "https://AeroOwl.github.io"
 baseurl: ""
+paginate:            1
 
-defaults:
-    scope:
-      path: ''
-      type: 'posts'
-    value:
-      layout: ''
-      author: 'ayc'
-      comments: false
-      share: false
+# Permalinks
+permalink:           pretty
+
+author:
+  name:              ayC
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
