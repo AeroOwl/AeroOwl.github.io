@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
-baseurl: .
+url: "https://AeroOwl.github.io"
+baseurl: ""
+
+sidebar: true
