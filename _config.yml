@@ -16,7 +16,7 @@
 title: "AeroOwl's Blog"
 email: "[firstname]anything[at]gmail[dot]com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Security researcher, cloud surfer. 
+  "Security researcher, cloud surfer. " 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
