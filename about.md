@@ -4,15 +4,16 @@ title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a computer and information security researcher and an second-year Master student.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My research interests traverse on these topics:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Back-and-forth program analysis
+    - dependency and alias relationship
+    - sanbox containment
+    - adversarial learning against av engines
+    
+* Textual threat spotting
+    - Rumor propagation and fact-checking
+    - Prioritizing, pruning and zooming of graph representation
 
-
-[jekyll-organization]: https://github.com/jekyll
