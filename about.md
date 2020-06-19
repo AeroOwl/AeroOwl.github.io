@@ -14,6 +14,6 @@ My research interests traverse on these topics:
     - adversarial learning against av engines
     
 * Textual threat spotting
-    - Rumor propagation and fact-checking
-    - Prioritizing, pruning and zooming of graph representation
+    - rumor propagation and fact-checking
+    - prioritizing, pruning and zooming of graph representation
 
